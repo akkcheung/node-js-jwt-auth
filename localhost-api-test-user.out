@@ -1,0 +1,2 @@
+cd http://localhost:8081/api/test/user
+x-access-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjQ0MjE3NzQ1LCJleHAiOjE2NDQzMDQxNDV9.264WOgYbwUj3UpCcld09pbIr5axlEVbWkZGdiyp9aCg

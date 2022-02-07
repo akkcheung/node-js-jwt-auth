@@ -1,0 +1,5 @@
+cd http://localhost:8081/api/auth/signup
+roles:='["moderator", "user"]'
+email=mod@bezkoder.com
+password=12345678
+username=mod
